@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0001-two-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0162-find-peak-element) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
