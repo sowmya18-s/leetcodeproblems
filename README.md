@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0875-koko-eating-bananas) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0344-reverse-string) |
 ## Quicksort
 |  |
