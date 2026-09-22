@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
