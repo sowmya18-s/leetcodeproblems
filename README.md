@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0162-find-peak-element) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
