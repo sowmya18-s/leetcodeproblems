@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0917-reverse-only-letters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
