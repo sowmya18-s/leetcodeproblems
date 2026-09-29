@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## String
 |  |
 | ------- |
