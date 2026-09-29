@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0704-binary-search) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0704-binary-search) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## String
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0917-reverse-only-letters) |
