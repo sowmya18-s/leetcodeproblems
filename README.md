@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0189-rotate-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
