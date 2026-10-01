@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0189-rotate-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
