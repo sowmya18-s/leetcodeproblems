@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
