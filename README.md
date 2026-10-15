@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## String
 |  |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0050-powx-n) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
