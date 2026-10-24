@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2409-count-days-spent-together](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0189-rotate-array) |
+| [2409-count-days-spent-together](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
