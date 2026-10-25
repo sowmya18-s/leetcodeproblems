@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0917-reverse-only-letters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
