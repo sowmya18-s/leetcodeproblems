@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0917-reverse-only-letters) |
