@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0917-reverse-only-letters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0977-squares-of-a-sorted-array) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -235,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
