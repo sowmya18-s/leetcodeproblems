@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String Matching
 |  |
@@ -257,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
