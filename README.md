@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sowmya18-s/leetcodeproblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
