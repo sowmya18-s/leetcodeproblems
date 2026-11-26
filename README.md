@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0189-rotate-array) |
 | [2409-count-days-spent-together](https://github.com/sowmya18-s/leetcodeproblems/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sowmya18-s/leetcodeproblems/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/sowmya18-s/leetcodeproblems/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
